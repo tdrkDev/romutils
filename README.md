@@ -2,7 +2,7 @@ Hey! This tool is under development!
 
 ---------------------------------------
 
-Now known info is:
+**Now known info is:**
 
 UI Toolkit: Flutter
 
@@ -10,7 +10,7 @@ Language: Dart
 
 ---------------------------------------
 
-Avalible utilities:
+**Avalible utilities:**---------------------------------------
 
 ADB utility
 
@@ -20,6 +20,6 @@ TWRP backup utility (backup manager)
 
 ---------------------------------------
 
-Done:
+**Done:**
 
 Image utility
