@@ -10,7 +10,7 @@ Language: Dart
 
 ---------------------------------------
 
-**Avalible utilities:**---------------------------------------
+**Avalible utilities:**
 
 ADB utility
 
